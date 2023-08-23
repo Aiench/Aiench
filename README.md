@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aiench&style=flat-square&color=blue" alt=""/>
 <h1>
-  Привет Всем!
+  Привет всем, меня зовут Арина!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -18,7 +18,8 @@
 </div>
 <div>
   :sparkling_heart: Обо мне :<br><br>
-Я начинающий front-end разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">из России.
+Я начинающий верстальщик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">из России. Мне 28 лет. Мой путь в программировании начался 
+ с языка Python, где я прошелa курс: "Поколение Python": курс для начинающих. После интенсивного изучения в несколько месяцев данного курса, я открыла для себя  веб-разработку! С октября 2022 года по апрель 2023 года я отправилась на курс:"Верстка и веб разработка сайтов 2023 - с нуля! Web development". В настоящий момент мое обучение завершено и я нахожусь в поисках работы!
 </div>
 Языки программирования :computer: :
 <br>
