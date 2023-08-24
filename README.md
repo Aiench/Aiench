@@ -39,6 +39,14 @@
 <hr>
 
 :ok_hand: Мои сертификаты: 	:love_you_gesture:
-<a href="https://stepik.org/cert/1344503">
+<div>
+  <a href="https://stepik.org/cert/1344503" target="blank">
     <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
     </a>
+   <a href="https://stepik.org/cert/1727645">
+    <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
+    </a>
+  <a href="https://stepik.org/cert/1961851">
+    <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
+    </a>
+</div>
