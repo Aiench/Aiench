@@ -44,9 +44,9 @@
     <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
     </a>
    <a href="https://stepik.org/cert/1727645">
-    <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
+    <img src="https://img.shields.io/badge/html-gray?logo=linked&logoColor=white&style=for-the-badges">
     </a>
   <a href="https://stepik.org/cert/1961851">
-    <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
+    <img src="https://img.shields.io/badge/js-red?logo=linked&logoColor=white&style=for-the-badges">
     </a>
 </div>
