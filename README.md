@@ -36,4 +36,9 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Aiench&style=flat-square&color=blue" alt=""/>
-<h1>
+<hr>
+
+:ok_hand: Мои сертификаты: 	:love_you_gesture:
+<a href="https://stepik.org/cert/1344503">
+    <img src="https://img.shields.io/badge/python-black?logo=linked&logoColor=white&style=for-the-badges">
+    </a>
