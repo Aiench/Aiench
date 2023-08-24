@@ -40,8 +40,6 @@
     <img src="https://img.shields.io/badge/@-blue?logo=linked&logoColor=white&style=for-the-badges">
     </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=Aiench&style=flat-square&color=blue" alt=""/>
 <hr>
 
 :ok_hand: Мои сертификаты: 	:love_you_gesture:
@@ -56,3 +54,5 @@
     <img src="https://img.shields.io/badge/js-red?logo=linked&logoColor=white&style=for-the-badges">
     </a>
 </div>
+<hr>
+<img src="https://komarev.com/ghpvc/?username=Aiench&style=flat-square&color=blue" alt=""/>
