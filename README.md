@@ -30,7 +30,7 @@
   <a href="https://vk.com/jeri_13">
    <img src="https://img.shields.io/badge/vk-blue?logo=linked&logoColor=white&style=for-the-badges">
   </a>
-    <a href="t.me/@IenchArina">
+    <a href="https://t.me/@IenchArina">
     <img src="https://img.shields.io/badge/telegram-blue?logo=linked&logoColor=white&style=for-the-badges">
     </a>
 </div>
