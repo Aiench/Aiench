@@ -36,7 +36,7 @@
     <a href="https://telegram.im/@IenchArina">
     <img src="https://img.shields.io/badge/telegram-blue?logo=linked&logoColor=white&style=for-the-badges">
     </a>
-    <a href="arina.yench@bk.ru">
+    <a href="mailto:arina.yench@bk.ru">
     <img src="https://img.shields.io/badge/@-blue?logo=linked&logoColor=white&style=for-the-badges">
     </a>
 </div>
